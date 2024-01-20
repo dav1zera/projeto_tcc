@@ -1,0 +1,5 @@
+0 Leão
+1 Elefante Africano
+2 Rinoceronte
+3 Pantera
+4 Panda
